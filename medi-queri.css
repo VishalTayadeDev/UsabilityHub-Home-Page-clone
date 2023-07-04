@@ -16,7 +16,7 @@
     }
 
     .nav-links{
-        display: none;
+        /* display: none; */
         position: absolute;
         background-color: white;
         left: -100%;
